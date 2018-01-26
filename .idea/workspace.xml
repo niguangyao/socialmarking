@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e15e7ab-d83c-45d0-a67a-73f9e69497db" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -226,12 +225,12 @@
       <workItem from="1516953143227" duration="1571000" />
       <workItem from="1516954721727" duration="467000" />
       <workItem from="1516955333372" duration="694000" />
-      <workItem from="1516956739436" duration="3623000" />
+      <workItem from="1516956739436" duration="3762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12456000" />
+    <option name="totallyTimeSpent" value="12595000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
